@@ -5,7 +5,7 @@ public class ClasseExemplo
     public static void Main()
     {
         Console.WriteLine("Olá, Mundo!");
-	Console.WriteLine("Programador 01 passou por aqui!");
-	Console.WriteLine("Programador 03 também passou por aqui!");
+	Console.WriteLine("Programador 03 passou por aqui!");
+	
     }
 }
